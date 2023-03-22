@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/guilhermeonrails/go-rest-api/database"
-	"github.com/guilhermeonrails/go-rest-api/models"
-	"github.com/guilhermeonrails/go-rest-api/routes"
+	"github.com/acoutinho1402/api-go-rest/database"
+	"github.com/acoutinho1402/api-go-rest/models"
+	"github.com/acoutinho1402/api-go-rest/routes"
 )
 
 func main() {

@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/acoutinho1402/api-go-rest/controllers"
+	"github.com/acoutinho1402/api-go-rest/middleware"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
-	"github.com/guilhermeonrails/go-rest-api/controllers"
-	"github.com/guilhermeonrails/go-rest-api/middleware"
 )
 
 func HandleResquest() {

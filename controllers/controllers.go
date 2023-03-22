@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/acoutinho1402/api-go-rest/database"
+	"github.com/acoutinho1402/api-go-rest/models"
 	"github.com/gorilla/mux"
-	"github.com/guilhermeonrails/go-rest-api/database"
-	"github.com/guilhermeonrails/go-rest-api/models"
 )
 
 func Home(w http.ResponseWriter, r *http.Request) {

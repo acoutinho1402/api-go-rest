@@ -1,4 +1,4 @@
-module github.com/guilhermeonrails/go-rest-api
+module github.com/acoutinho1402/api-go-rest
 
 go 1.15
 
